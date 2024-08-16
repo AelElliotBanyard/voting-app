@@ -1,0 +1,11 @@
+{
+  "name": "result-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for result without React or Preact",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
